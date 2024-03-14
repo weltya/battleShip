@@ -2,6 +2,16 @@
 
 ## to play :
 
+`run make` :
+* clone repository.
+* go to the repository.
+* run `make`.
+```sh
+git clone https://github.com/weltya/battleship.git
+cd battleship
+make
+```
+
 `run server` :
 * args :
   * executable name.
